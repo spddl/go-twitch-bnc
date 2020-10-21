@@ -1,0 +1,17 @@
+{
+  "channel": [
+    "lirik",
+	"forsen"
+  ],
+  "twitchServer": "wss://irc-ws.chat.twitch.tv",
+  "timestampFormat": "02.01.2006 15:04:05",
+  "debug": false,
+  "botVerified": false,
+  "backloglimit": 50,
+  "search": [
+    "spddl",
+    "Spddl"
+  ],
+  "webhook": "http://localhost/webhook/",
+  "logDir": "log"
+}
